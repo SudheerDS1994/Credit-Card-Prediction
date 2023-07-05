@@ -7,6 +7,9 @@ This project goals is to predict whether the customer will be defaulted or not. 
 we are using AUC score as evaluation metrics, because in credit card default usually AUC is proper evaluation metric for this case.
 
 1.Logistic Regression
+
 2.Decision Tree
+
 3.Random Forest
+
 4.Gradient Boosting
